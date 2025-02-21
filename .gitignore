@@ -1,0 +1,12 @@
+venv/
+.env
+qdrant/__pycache__
+qdrant_upload.log
+qdrant/startup_search/vectors.npy
+milvus/FlagEmbedding
+milvus/images_folder
+milvus/multimodal_demo.db
+milvus/.multimodal_demo.db.lock
+milvus/amazon_reviews_2023_subset.tar.gz
+milvus/Visualized_base_en_v1.5.pth
+qdrant_storage
