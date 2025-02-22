@@ -17,3 +17,10 @@ qdrant-client
 fastapi
 uvicorn
 qdrant-client[fastembed]>=1.8.2
+haystack-ai
+pinecone-haystack
+pathlib
+streamlit
+pymupdf4llm
+pinecone[asyncio]
+pydantic-settings
